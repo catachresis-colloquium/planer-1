@@ -4,7 +4,7 @@ Copyright (c) Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
 -->
 ```bash
 # Clone the repository
-git clone https://github.com/metadatastician/planer-1.git
+git clone https://github.com/catachresis-colloquium/planer-1.git
 cd planer-1
 
 # Using Guix (recommended for reproducibility)
@@ -72,10 +72,10 @@ Use the [feature request template](ISSUE_TEMPLATE/feature_request.yml) and inclu
 
 Look for issues labelled:
 
-- [`good first issue`](https://github.com/metadatastician/planer-1/labels/good%20first%20issue) — Simple Perimeter 3 tasks
-- [`help wanted`](https://github.com/metadatastician/planer-1/labels/help%20wanted) — Community help needed
-- [`documentation`](https://github.com/metadatastician/planer-1/labels/documentation) — Docs improvements
-- [`perimeter-3`](https://github.com/metadatastician/planer-1/labels/perimeter-3) — Community sandbox scope
+- [`good first issue`](https://github.com/catachresis-colloquium/planer-1/labels/good%20first%20issue) — Simple Perimeter 3 tasks
+- [`help wanted`](https://github.com/catachresis-colloquium/planer-1/labels/help%20wanted) — Community help needed
+- [`documentation`](https://github.com/catachresis-colloquium/planer-1/labels/documentation) — Docs improvements
+- [`perimeter-3`](https://github.com/catachresis-colloquium/planer-1/labels/perimeter-3) — Community sandbox scope
 
 ---
 

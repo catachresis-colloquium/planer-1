@@ -9,7 +9,7 @@ last-updated = "2026-09-02"
 
 [anchor]
 schema = "hyperpolymath.anchor/1"
-repo = "metadatastician/planer-1"
+repo = "catachresis-colloquium/planer-1"
 authority = "upstream-canonical"
 
 purpose = [
