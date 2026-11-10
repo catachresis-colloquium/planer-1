@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: Планер-1
 Upstream-Contact: Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
-Source: https://github.com/metadatastician/planer-1
+Source: https://github.com/catachresis-colloquium/planer-1
 
 # Default: all files are MPL-2.0
 Files: *

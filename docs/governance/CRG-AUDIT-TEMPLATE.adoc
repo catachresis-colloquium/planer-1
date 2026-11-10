@@ -101,7 +101,7 @@ Do *not* mark PRESENT without citing the path.
 | Build-system policy (RSR R-020)
 
 | Remote
-| `git@github.com:metadatastician/planer-1.git` (origin only) / drift
+| `git@github.com:catachresis-colloquium/planer-1.git` (origin only) / drift
 | `git remote -v`
 |===
 
