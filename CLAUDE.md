@@ -59,7 +59,7 @@ TypeScript is permitted under Bun. The "use ReScript" rule is retired — ReScri
 
 # This repo: `planer-1`  ·  clade `gm-planer-1`
 
-- **Identity** — uuid `be5f34f8-dfb3-5a2c-a5dc-e3bbc12eda3a`; clade `gm` (secondary ``); born 2026-09-02; forge `catachresis-colloquium/planer-1`.
+- **Identity** — uuid `89c673f7-1ef9-590e-b3af-c31e174c155a`; clade `gm` (secondary ``); born 2026-09-02; forge `catachresis-colloquium/planer-1`.
 - **IS** — Fifth Stealth Glider investigation (reserved): orbits around Riemann spheres on the Conway field. Планер is Russian for glider or sailplane, and Планер-1 echoes Спутник-1; the slug planer-1 is a transliteration, not 'planar'. Intent recorded 2026-09-02 (owner ruling); no implementation yet.
 - **IS-NOT** — a shipped or playable game · a specification of the orbital mechanics (only the intent is recorded) · a rename or fork of any earlier Stealth Glider project · the coordination hub for the line
 - **Where it sits** — pipeline position **fifth Stealth Glider investigation**; chain `f19-stealth-glider -> f117a-stealth-glider -> sr71-blackglider -> x15-rocket-glider -> planer-1 -> enterglide-ncc-137-k -> tardis-rule-disruption`; coordination = `catachresis-colloquium/stealth-glider-ecosystem`.
